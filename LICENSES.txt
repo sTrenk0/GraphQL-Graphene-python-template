@@ -1,0 +1,38 @@
+============================================================
+         Licenses for Third-Party Libraries
+============================================================
+
+This project template demonstrates integration of GraphQL using Graphene with Django, FastAPI, and Flask.
+Below is a list of key third-party dependencies and their respective licenses:
+
+[Django + Graphene-Django integration]
+  • Django – BSD License 
+         URL: hhttps://github.com/django/django/blob/main/LICENSE
+  • graphene-django – MIT License 
+         URL: https://github.com/graphql-python/graphene-django/blob/main/LICENSE
+
+[FastAPI + Graphene integration]
+  • FastAPI – MIT License 
+         URL: https://github.com/tiangolo/fastapi/blob/master/LICENSE
+  • uvicorn – MIT License 
+         URL: https://github.com/encode/uvicorn/blob/master/LICENSE.md
+  • SQLAlchemy – MIT License 
+         URL: https://github.com/sqlalchemy/sqlalchemy/blob/main/LICENSE
+  • graphene – MIT License 
+         URL: https://github.com/graphql-python/graphene/blob/master/LICENSE
+  • starlette-graphene3 – MIT License 
+         URL: https://github.com/ciscorn/starlette-graphene3/blob/master/LICENSE.txt
+
+[Flask + Graphene integration]
+  • Flask – BSD License 
+         URL: https://github.com/pallets/flask/blob/main/LICENSE.txt
+  • SQLAlchemy – MIT License 
+         URL: https://github.com/sqlalchemy/sqlalchemy/blob/main/LICENSE
+  • graphql-core – MIT License 
+         URL: https://github.com/graphql-python/graphql-core/blob/main/LICENSE
+  • flask-graphql – MIT License 
+         URL: https://github.com/graphql-python/flask-graphql/blob/master/LICENSE
+  • graphene – MIT License 
+         URL: https://github.com/graphql-python/graphene/blob/master/LICENSE
+
+============================================================
